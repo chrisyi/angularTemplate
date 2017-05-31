@@ -1,0 +1,42 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}Ï
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+@media screen and (max-width: 400px) {
+    .row {
+        flex-direction: column;
+    }
+    .secondary-logo {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    header {
+        width: 80;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+}Ï
